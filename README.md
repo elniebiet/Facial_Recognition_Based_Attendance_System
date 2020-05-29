@@ -5,13 +5,13 @@ Demo for Computer Engineering Dept. University of Maiduguri, Nigeria.
 
 Please note: This app can only be run on Ubuntu OS.
 
-##Admin Login Screen
+## Admin Login Screen
 ![](screenshots/fac1.png)
 
-##Record Attendance Screen
+## Record Attendance Screen
 ![](screenshots/fac2.png)
 
-##After Recording Attendance
+## After Recording Attendance
 ![](screenshots/fac4.png)
 
 
